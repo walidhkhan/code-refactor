@@ -6,6 +6,8 @@
 
 body {
     background-color: #d9dcd6;
+    width: 1024px;
+    margin: 0 auto;
 }
 
 /* HEADER START */
